@@ -10,15 +10,10 @@ All these modes are linked by a menu scene, which also lets you change the song.
 # What are the Controls?
 
 The controls depend on the current active mode.
-In the menu, you click on the mode buttons to go to the corrisponding mode. Alternatively, you can click the Song Select button to go to
-the song select menu where you can change the active song.
+In the menu, you click on the mode buttons to go to the corrisponding mode. Alternatively, you can click the Song Select button to go to the song select menu where you can change the active song.
 In Mode 1, you can watch as the scene reacts to audio. At any point, you can hit the escape button to return to the menu.
-In Mode 2, you click bullets to destroy them. The goal is to destroy red bullets before they reach the center, while allowing blue bullets
-to reach the center. When you destroy a red bullet you get a point, when you destroy a blue bullet you lose a point. If you let a blue
-bullet into the center you get a point, if you let a red bullet in you lose a point. At any point you can hit escape to go back to the
-menu scene.
-In Mode 3, you hit 1, 2, 3 or 4 as the notes pass over them. Notes are destroyed if you hit the button in time. You can also watch as the
-area reacts to the audio.At any point, you can hit escape to go back to the menu.
+In Mode 2, you click bullets to destroy them. The goal is to destroy red bullets before they reach the center, while allowing blue bullets to reach the center. When you destroy a red bullet you get a point, when you destroy a blue bullet you lose a point. If you let a blue bullet into the center you get a point, if you let a red bullet in you lose a point. At any point you can hit escape to go back to the menu scene.
+In Mode 3, you hit 1, 2, 3 or 4 as the notes pass over them. Notes are destroyed if you hit the button in time. You can also watch as the area reacts to the audio.At any point, you can hit escape to go back to the menu.
 
 # How do you make it run?
 
