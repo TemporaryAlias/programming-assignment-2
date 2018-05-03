@@ -14,6 +14,8 @@ All these modes are linked by a menu scene, which also lets you change the song.
 
 The controls depend on the current active mode.
 
+**You must start in the menu scene.**
+
 In the menu, you click on the mode buttons to go to the corrisponding mode. Alternatively, you can click the Song Select button to go to the song select menu where you can change the active song.
 
 In Mode 1, you can watch as the scene reacts to audio. At any point, you can hit the escape button to return to the menu.
